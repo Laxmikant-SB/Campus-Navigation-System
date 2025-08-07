@@ -4,14 +4,17 @@ This project simulates a **Campus Navigation System** using **graph traversal al
 
 ---
 
-##  How to Run
+## How to Run
 
-1. Clone the repository:
-2.Open the Jupyter notebook: Campus_Navigation_System.ipynb
-3.Run each cell to:
-  Build the graph
-  Apply BFS and DFS
-  View the visualizations
+1. Clone the repository:  
+
+2. Open the Jupyter notebook:  
+   `Campus_Navigation_System.ipynb`
+3. Run each cell to:  
+   - Build the graph  
+   - Apply BFS and DFS  
+   - View the visualizations
+
 
 ##  Example
 
